@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Chamuditha Wanninayake - AI/ML Researcher" width="100%">
+</p>
+
 # 👋 Hi, I'm Chamuditha Wanninayake
 
 ### 🔬 AI/ML Researcher • Data Scientist • Computer Vision & Deep Learning
