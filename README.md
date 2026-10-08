@@ -109,14 +109,14 @@ Exploring intelligent agents, enterprise AI systems, and modern AI applications.
 
 ## 📄 Featured Publication
 
-### 🩸 Pre-Analytical Quality Validation for Malaria Diagnosis
+### 🩸 [Pre-Analytical Quality Validation for Malaria Diagnosis: A Multi-Stage Deep Learning and Computer Vision Framework](https://ieeexplore.ieee.org/document/11613683)
 
-**Pre-Analytical Quality Validation for Malaria Diagnosis: A Multi-Stage Deep Learning and Computer Vision Framework**
+**2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)**
 
-📍 ECAI 2026 • Bucharest, Romania  
-🏛️ IEEE
-
-A research framework combining computer vision and deep learning for pre-analytical quality validation in malaria diagnosis.
+📍 Bucharest, Romania  
+🏛️ IEEE  
+🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/11613683)  
+🔖 DOI: `10.1109/ECAI69016.2026.11613683`
 
 ---
 
@@ -125,14 +125,6 @@ A research framework combining computer vision and deep learning for pre-analyti
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChamuWanninayake&show_icons=true&hide_border=true&theme=transparent" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuWanninayake&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamuWanninayake&theme=github-compact&hide_border=true" width="100%"/>
 </p>
 
 ---
