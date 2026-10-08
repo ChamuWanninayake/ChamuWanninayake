@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chamuditha Wanninayake
 
-### 🔬 Data Science Graduate | AI/ML Researcher | Computer Vision & Deep Learning | Generative AI & Agentic Systems
+### 🔬 Data Science Graduate | Data Scientist | Computer Vision & Deep Learning | Generative AI & Agentic Systems
 
 ---
 
