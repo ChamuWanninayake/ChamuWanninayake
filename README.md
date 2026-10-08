@@ -109,14 +109,13 @@ Exploring intelligent agents, enterprise AI systems, and modern AI applications.
 
 ## 📄 Featured Publication
 
-### 🩸 [Pre-Analytical Quality Validation for Malaria Diagnosis: A Multi-Stage Deep Learning and Computer Vision Framework](https://ieeexplore.ieee.org/document/11613683)
+### 🩸 Pre-Analytical Quality Validation for Malaria Diagnosis: A Multi-Stage Deep Learning and Computer Vision Framework
 
 **2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)**
 
 📍 Bucharest, Romania  
 🏛️ IEEE  
-🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/11613683)  
-🔖 DOI: `10.1109/ECAI69016.2026.11613683`
+🔗 DOI: [`10.1109/ECAI69016.2026.11613683`](https://ieeexplore.ieee.org/document/11613683)
 
 ---
 
