@@ -1,177 +1,186 @@
-# 👋 Hello, I'm Chamuditha Wanninayake
+# 👋 Hi, I'm Chamuditha Wanninayake
 
-### 🔬 Data Science Graduate | Data Scientist | Computer Vision & Deep Learning | Generative AI & Agentic Systems
+### 🔬 AI/ML Researcher • Data Scientist • Computer Vision & Deep Learning
+
+I'm a **Data Science graduate and AI/ML researcher** interested in building intelligent systems that solve meaningful real-world problems.
+
+My main interests are **Computer Vision, Deep Learning, Medical AI, Machine Learning, and Generative AI**. I enjoy working at the intersection of research and engineering — exploring ideas, developing models, and turning them into practical systems.
+
+🔬 AI/ML Researcher  
+🧠 Computer Vision & Deep Learning  
+🏥 Medical AI & Image Analysis  
+🤖 Generative AI & Agentic Systems  
+📄 IEEE Published Researcher  
+🌱 Always learning, experimenting, and building
+
+---
+
+## 🔬 Research Interests
+
+**Computer Vision** • **Deep Learning** • **Medical Image Analysis** • **Machine Learning** • **Generative AI** • **Intelligent Systems**
+
+My research experience includes AI-assisted malaria diagnosis and computer-vision-based blood-smear quality assessment.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Programming Languages
 
 <p align="left">
-  <a href="https://www.chamuditha.com">
-    <img src="https://img.shields.io/badge/Portfolio-chamuditha.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://lk.linkedin.com/in/chamuditha-wanninayake">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chamudithawanninayake.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,kotlin,r,javascript,typescript" />
 </p>
 
+### 🤖 Machine Learning & Deep Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CNN-Deep%20Learning-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/EfficientNet-Deep%20Learning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Grad--CAM-Explainable%20AI-8A2BE2?style=flat-square" />
+</p>
+
+### ✨ Generative AI & AI Agents
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
+
+`Microsoft Copilot Studio` • `Azure AI Foundry` • `AI Agent SDK` • `Bot Framework` • `Prompt Engineering` • `RAG`
+
+### 🌐 Web & Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" />
+</p>
+
+`REST APIs` • `Spring Boot` • `Spring Security` • `OAuth 2.0`
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,docker" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecolab" />
+</p>
+
+### 🎨 3D & Interactive Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
+
+`Three.js` • `3D Avatar Modelling` • `Viseme Animation`
+
 ---
 
-## 🧠 About Me
+## 📚 Research & Projects
 
-I'm a **research-driven Data Science graduate** with a passion for building intelligent systems at the intersection of **Artificial Intelligence, Computer Vision, Deep Learning, and Generative AI**.
+I use GitHub to share my **research experiments, AI projects, implementations, and technical explorations**.
 
-My work combines **academic research with practical AI engineering** — from developing deep-learning and computer-vision systems for biomedical diagnostics to building enterprise AI agents and automation solutions in an R&D environment.
+My work mainly focuses on:
 
-I enjoy turning research ideas into practical systems, experimenting with emerging AI technologies, and solving meaningful real-world problems.
+🩸 **Medical AI & Computer Vision**  
+AI-assisted analysis of biomedical images and diagnostic support systems.
 
-🎓 **BSc (Hons) in Information Technology — Data Science**  
-🏫 Sri Lanka Institute of Information Technology (SLIIT)
+🧠 **Deep Learning**  
+Model development, experimentation, evaluation, and explainability.
+
+🤖 **Generative AI & Agentic Systems**  
+Exploring intelligent agents, enterprise AI systems, and modern AI applications.
 
 ---
 
-## 🔬 Research
+## 📄 Featured Publication
 
-### 🩸 AI for Malaria Diagnosis
-
-My primary research focuses on **pre-analytical quality validation for malaria diagnosis** using Computer Vision and Deep Learning.
-
-The research covers:
-
-- 🧪 Giemsa staining quality assessment
-- 🩸 Blood smear quality assessment
-- 🔬 Malaria parasite detection and classification
-- 🎯 Object detection and localization
-- 🧠 Explainable AI using Grad-CAM
-
-### 📄 IEEE ECAI 2026
+### 🩸 Pre-Analytical Quality Validation for Malaria Diagnosis
 
 **Pre-Analytical Quality Validation for Malaria Diagnosis: A Multi-Stage Deep Learning and Computer Vision Framework**
 
-*18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI 2026)*  
-📍 Bucharest, Romania
+📍 ECAI 2026 • Bucharest, Romania  
+🏛️ IEEE
 
-**IEEE Xplore | DOI:** `10.1109/ECAI69016.2026.11613683`
-
----
-
-## 🤖 Industry Experience
-
-### Sri Lanka Telecom — Research & Development
-
-**Data Science Intern | SLT Digital Lab**
-
-Worked on enterprise AI solutions involving:
-
-- 🤖 Generative AI & Conversational AI
-- 🧠 Microsoft Copilot Studio agents
-- 🔎 Enterprise knowledge bases
-- 🔀 Multi-agent orchestration
-- 👥 AI-powered recruitment
-- 🌐 Multilingual AI systems
-- ⚙️ Workflow automation
-- ☁️ Azure enterprise integrations
-
-I also contributed to an **Agent Store platform** built with Flask and React, including interactive **3D AI avatar experiences** using Blender and Three.js.
+A research framework combining computer vision and deep learning for pre-analytical quality validation in malaria diagnosis.
 
 ---
 
-## 🚀 Selected Work
+## 📊 GitHub Statistics
 
-### 🩸 Medical Computer Vision
-
-Multi-stage AI framework for blood-smear quality validation and malaria parasite analysis.
-
-**Python · PyTorch · TensorFlow · OpenCV · EfficientNet · YOLOv8**
-
-### 🤖 Enterprise AI & Agentic Systems
-
-Enterprise AI agents, knowledge-based assistants, recruitment automation, multilingual AI and multi-agent routing.
-
-**Copilot Studio · Azure AI · OpenAI · Power Automate**
-
-### 🎭 AI Agent Store
-
-Centralized platform for enterprise AI agents with authentication, role-based access and interactive 3D AI avatars.
-
-**Flask · React · Firebase · Blender · Three.js**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamuWanninayake&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamuWanninayake&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
 
 ---
 
-# 🛠️ Technologies
+## 📈 Contribution Activity
 
-### 🧠 AI / Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="48" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamuWanninayake&theme=github-compact&hide_border=true" width="100%"/>
 </p>
-
-`Scikit-learn` `CNN` `YOLO` `EfficientNet` `Grad-CAM`
-
-### ✨ Generative AI & Agents
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure" height="48" />
-</p>
-
-`OpenAI GPT` `Hugging Face Transformers` `Mistral AI`  
-`Microsoft Copilot Studio` `Azure AI Foundry` `AI Agent SDK`  
-`RAG` `Prompt Engineering`
-
-### 💻 Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring,typescript,javascript" height="48" />
-</p>
-
-`REST APIs` `Spring Boot` `Spring Security`
-
-### ☁️ Cloud & Data
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,mysql,mongodb" height="48" />
-</p>
-
-`Microsoft Azure` `AWS` `Google Cloud` `Firebase`  
-`MySQL` `MongoDB`
-
-### 🎨 3D & Visualization
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=blender" height="48" />
-</p>
-
-`Three.js` `3D Avatar Modelling` `Viseme Animation`  
-`Matplotlib` `Tableau` `Power BI`
 
 ---
 
-## 🎯 Areas I Care About
+## 🌱 Currently
 
-🔬 **AI/ML Research**  
-🏥 **Medical AI & Computer Vision**  
-🤖 **Generative AI & Agentic Systems**  
-🧠 **Deep Learning**  
-📚 **Research & Academia**  
-🌱 **Continuous Learning**
+🔬 Advancing my work in **AI/ML research**
+
+🧠 Exploring **Computer Vision & Deep Learning**
+
+🏥 Interested in **Medical AI**
+
+🤖 Building and experimenting with **Generative AI & Agentic Systems**
+
+📚 Developing as a **researcher and AI engineer**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to **research collaborations, AI/ML discussions, open-source projects, and academic opportunities.**
+I'm always open to:
+
+🔬 Research collaborations  
+🤖 AI/ML projects  
+💻 Open-source development  
+📚 Research discussions  
+🎓 Academic opportunities
 
 <p align="left">
-  <a href="https://www.chamuditha.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge" />
+  <a href="https://github.com/ChamuWanninayake">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://lk.linkedin.com/in/chamuditha-wanninayake">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:chamudithawanninayake.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="https://orcid.org">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+
+  <a href="https://scholar.google.com">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <b>Research with purpose. Build with intelligence. Learn continuously.</b>
+  <i>Research • Build • Learn • Repeat.</i>
 </p>
